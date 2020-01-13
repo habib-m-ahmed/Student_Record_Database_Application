@@ -1,0 +1,12 @@
+ICS1D,9,Computer Science
+HIS1D,9,Canadian History
+WOD2D,10,Woodshop
+ENG2D,10,English
+SPH3U,11,Physics
+MHF3U,11,Functions
+MCV4U,12,Calculus
+SCH4U,12,Chemistry
+SBI4U,12,Biology
+TDA4M,12,Tech Design
+HFA4U,12,Nutrition and Health
+ICS2D,10,Programming
