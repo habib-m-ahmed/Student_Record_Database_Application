@@ -4,8 +4,8 @@ It allows a school to record information about their students.
 
                     It contains the following information for each student: 
 
-First  / Last Name
-Street Address
+-First  / Last Name
+-Street Address
 City
 Province
 Postal Code
