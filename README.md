@@ -2,6 +2,8 @@
 The 'Student Records Database' is a java application created in the Graphic User Interface "NetBeans".
 It allows a school to record information about their students.
 
+![Image of Yaktocat](https://imgur.com/9aVPVV2.png)
+
                     It contains the following information for each student: 
 
 First / Last Name
