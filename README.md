@@ -4,7 +4,7 @@ It allows a school to record information about their students.
 
 ![Image of Yaktocat](https://imgur.com/9aVPVV2.png)
 
-                    It contains the following information for each student: 
+                            It contains the following information for each student: 
 
 First / Last Name
 <br>Street Address
@@ -20,7 +20,7 @@ First / Last Name
 <br>Eight possible courses with eight marks
 <br>The student's average
 
-                    It also includes the following features:
+                            It also includes the following features:
 
 ADD information for a new student
 <br>EDIT information for an existing student
@@ -36,12 +36,12 @@ ADD information for a new student
 <br>There is also a section in the application that allows the user to enter valid course codes for each grade.
 <br>Users are only able to select courses corresponding to their grade. 
 
-                    A course record contains the following information:
+                            A course record contains the following information:
 Course code
 <br>Grade
 <br>Course Description
 
-                    The program also checks for: 
+                            The program also checks for: 
                     
 Valid Course codes
 <br>Valid Student Number (all digits, 8 digits long)
